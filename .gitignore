@@ -1,0 +1,47 @@
+# Compiled binaries and executables
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Compiled object files
+*.o
+*.obj
+
+# Temporary files and editor backups
+*~
+.DS_Store
+.vscode/
+*.swp
+
+# IDE or editor-specific files and directories
+.idea/
+.vscode/
+
+# Dependency directories
+node_modules/
+vendor/
+
+# Logs and debugging output
+*.log
+debug.log
+
+# Configuration files with sensitive information
+config.ini
+.env
+
+# Personal or system-specific files
+.bash_history
+.viminfo
+
+# Compiled Python bytecode
+__pycache__/
+*.pyc
+
+# Backup files
+*.bak
+*.backup
+
+
+# Environment
+myenv/
